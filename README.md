@@ -1,6 +1,6 @@
 ## Hi, I'm Hemant ✨
 
-I'm  a curious tech explorer and a future CS undergrad passionate about building cool things with code. Here's a bit about me:<br/>
+I'm  a curious tech explorer and a CSAI undergrad at @IIITD passionate about building cool things with code. Here's a bit about me:<br/>
 
 👨‍💻 Currently learning **C++**, **DSA**, and diving into **Web Development**<br/>
 🎓 Incoming CSE student at **IIIT Delhi**🧠💼<br/>
