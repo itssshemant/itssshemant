@@ -4,7 +4,6 @@ I'm  a curious tech explorer and a CSAI undergrad at @IIITD passionate about bui
 
 👨‍💻 Currently learning **C++**, **DSA**, and diving into **Web Development**<br/>
 🎓 CSAI student at **IIIT Delhi**🧠💼<br/>
-🧱 I love gaming! Minecraft, GTA V, Valorant, and Free Fire are my jam<br/>
 🌐 Building Websites that serves people.<br/>
 🎯 Goal: Work at top tech companies like Google, Microsoft, or Adobe someday!<br/>
 🎧 Social Handle -> [Instagram](https://www.instagram.com/the.hemant_797/)  , [Linkedin](https://www.linkedin.com/in/iamhemantmeena/)<br/>
