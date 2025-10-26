@@ -3,7 +3,7 @@
 I'm  a curious tech explorer and a CSAI undergrad at @IIITD passionate about building cool things with code. Here's a bit about me:<br/>
 
 👨‍💻 Currently learning **C++**, **DSA**, and diving into **Web Development**<br/>
-🎓 Incoming CSE student at **IIIT Delhi**🧠💼<br/>
+🎓 CSAI student at **IIIT Delhi**🧠💼<br/>
 🧱 I love gaming! Minecraft, GTA V, Valorant, and Free Fire are my jam<br/>
 🌐 Building Websites that serves people.<br/>
 🎯 Goal: Work at top tech companies like Google, Microsoft, or Adobe someday!<br/>
